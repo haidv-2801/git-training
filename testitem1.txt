@@ -1,5 +1,0 @@
-hello wor ld
-
-add from 
-add from main 2
-add from main
